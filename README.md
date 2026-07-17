@@ -11,6 +11,7 @@ Building scalable web applications, learning AI, and creating innovative product
 </div>
 
 ---
+---
 
 <div align="center">
 
