@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Navaneeth N G
 
-### BCA Student • Full Stack Developer • AI Enthusiast
+### BCA Student • Full Stack Developer • AI Assisted Softwear Developer 
 
 <p>
 Building scalable web applications, learning AI, and creating innovative products like <b>GameTube</b>.
@@ -51,7 +51,6 @@ Building scalable web applications, learning AI, and creating innovative product
 
 - 🎓 BCA Student at **Mandya University** (Expected Graduation: 2027)
 - 💻 Passionate about **Full Stack Development**
-- 🚀 Currently building **GameTube**, a gaming platform
 - 🌱 Learning **Java, Data Structures & Algorithms, Artificial Intelligence**
 - 🤝 Open to **Internships** and Open Source Collaboration
 - ⚡ Interested in scalable software, clean architecture, and modern web technologies
@@ -60,7 +59,6 @@ Building scalable web applications, learning AI, and creating innovative product
 
 ## 🎯 Current Focus
 
-- 🔥 Building: **GameTube**
 - 📚 Learning: **Java, DSA & AI**
 - 🌍 Goal: Become a Professional Full Stack Engineer
 - 💼 Looking for: Software Development Internship
@@ -100,33 +98,15 @@ Building scalable web applications, learning AI, and creating innovative product
 
 ---
 
-## ☁️ Cloud & DevOps
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux" />
-</p>
-
 ---
 
-## 🤖 AI / Machine Learning
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-</p>
-
-<p align="center">
 
 `Artificial Intelligence` • `Machine Learning` • `Generative AI` • `Prompt Engineering`
 
 </p>
 
 ---
-
-## 🧰 Developer Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,npm,bash" />
-</p>
 
 ---
 
@@ -143,85 +123,18 @@ Building scalable web applications, learning AI, and creating innovative product
 </p>
 
 ---
-# 🚀 Featured Projects
 
-<details open>
-<summary><b>🎮 GameTube — Gaming Platform</b></summary>
-
-### Overview
-
-GameTube is a modern gaming platform designed to bring together gamers, creators, and communities through game content, live streaming, tournaments, and social interaction.
-
-| Category | Details |
-|----------|---------|
-| Status | 🚧 In Development |
-| Role | Founder & Full Stack Developer |
-| Tech Stack | React.js, Node.js, Express.js, MySQL |
-| Features | Authentication, User Profiles, Videos, Live Streaming, Gaming Community |
-| Goal | Build a scalable gaming ecosystem |
-
-### Key Features
-
-- User Authentication
-- Gaming Profiles
-- Video Uploads
-- Live Streaming
-- Community Features
-- Modern Responsive UI
-- Secure Backend APIs
-- Database Management
-
-**Repository:** *(Add your GameTube GitHub repository link here after you create it.)*
 
 </details>
 
 ---
 
-<details>
-<summary><b>🎓 Smart Student Management System</b></summary>
-
-### Overview
-
-A responsive full-stack application that helps schools and colleges manage student records, attendance, schedules, and academic performance efficiently.
-
-| Category | Details |
-|----------|---------|
-| Status | ✅ Completed |
-| Tech Stack | React.js, Node.js, Express.js, MySQL |
-| Database | MySQL |
-| Backend | REST API |
-| Frontend | React.js |
-| Version Control | Git & GitHub |
-
-### Features
-
-- Student Management
-- Attendance Tracking
-- Marks Management
-- Secure Login
-- Responsive Dashboard
-- Academic Reports
-
-**Repository:** *(Add your repository link here.)*
-
-</details>
-
 ---
-
-## 🌟 Future Projects
-
-- 🤖 AI Assistant
-- 📱 Android Applications
-- ☁️ Cloud-based Applications
-- 📊 AI Analytics Dashboard
-- 🎮 Multiplayer Gaming Features
-- 🔒 Cyber Security Projects
 
 ---
 # 💼 Professional Experience
 
 ## 🚀 Freelance Full Stack Developer & Content Creator
-**2025 – Present**
 
 - Designed and developed responsive web applications.
 - Built scalable REST APIs using Node.js and Express.js.
@@ -250,17 +163,6 @@ A responsive full-stack application that helps schools and colleges manage stude
 | 🤝 Open to Internship Opportunities | ✅ Available |
 
 ---
-
-# 📜 Certifications
-
-- IT Architecture Job Simulation
-- Data Analytics Job Simulation
-- Cyber Security Job Simulation
-- Quantitative Research Simulation
-- Introduction to Generative AI
-- Ethical Hacking Fundamentals
-- Microsoft Excel Fundamentals
-
 ---
 
 # 🎯 Career Goals
@@ -291,70 +193,6 @@ A responsive full-stack application that helps schools and colleges manage stude
 ⏳ System Design
 ⏳ DevOps
 ```
-
----
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamnavanith&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnavanith&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=iamnavanith&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=iamnavanith&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamnavanith&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-> **Note:** This animation requires a GitHub Action to generate automatically.
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  snake:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: iamnavanith
-          outputs: dist/github-contribution-grid-snake.svg
 ```
 
 ---
@@ -378,14 +216,6 @@ jobs:
 </div>
 
 ---
-
-# 👀 Profile Visitors
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=iamnavanith&style=for-the-badge&color=blueviolet)
-
-</div>
 
 ---
 
