@@ -2,15 +2,14 @@
 
 # Hi 👋, I'm Navaneeth N G
 
-### BCA Student • Full Stack Developer • AI Assisted Softwear Developer 
+### BCA Student • Full Stack Developer • AI-Assisted Software Developer
 
 <p>
-Building scalable web applications, learning AI, and creating innovative products like <b>GameTube</b>.
+Building scalable web applications, exploring Artificial Intelligence, and developing innovative products like <b>GameTube</b>.
 </p>
 
 </div>
 
----
 ---
 
 <div align="center">
@@ -22,9 +21,10 @@ Building scalable web applications, learning AI, and creating innovative product
 ![Stars](https://img.shields.io/github/stars/iamnavanith?style=for-the-badge)
 
 </div>
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+Developer;AI+%26+Machine+Learning+Enthusiast;Building+GameTube+Gaming+Platform;Open+Source+Learner;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+Developer;AI+Enthusiast;Building+GameTube+Gaming+Platform;Open+Source+Learner;Always+Learning+New+Technologies" />
 
 </div>
 
@@ -50,21 +50,23 @@ Building scalable web applications, learning AI, and creating innovative product
 
 # 💫 About Me
 
-- 🎓 BCA Student at **Mandya University** (Expected Graduation: 2027)
+- 🎓 **BCA Student** at **Mandya University** (Expected Graduation: **2027**)
 - 💻 Passionate about **Full Stack Development**
-- 🌱 Learning **Java, Data Structures & Algorithms, Artificial Intelligence**
-- 🤝 Open to **Internships** and Open Source Collaboration
-- ⚡ Interested in scalable software, clean architecture, and modern web technologies
+- 🌱 Currently learning **Java, Data Structures & Algorithms (DSA), and Artificial Intelligence**
+- 🤝 Open to **Internships** and **Open Source Collaboration**
+- ⚡ Interested in **Scalable Software, Clean Architecture, AI, and Modern Web Technologies**
 
 ---
 
-## 🎯 Current Focus
+# 🎯 Current Focus
 
-- 📚 Learning: **Java, DSA & AI**
-- 🌍 Goal: Become a Professional Full Stack Engineer
-- 💼 Looking for: Software Development Internship
+- 📚 Learning **Java, DSA, and Artificial Intelligence**
+- 🚀 Building **GameTube**
+- 🌍 Goal: Become a **Professional Full Stack Software Engineer**
+- 💼 Looking for **Software Development Internship Opportunities**
 
 ---
+
 # 🛠️ Tech Stack
 
 ## 💻 Programming Languages
@@ -94,14 +96,14 @@ Building scalable web applications, learning AI, and creating innovative product
 ## 🗄️ Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,firebase,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
 </p>
 
 ---
 
----
+## 🤖 AI & Emerging Technologies
 
-
+<p align="center">
 
 `Artificial Intelligence` • `Machine Learning` • `Generative AI` • `Prompt Engineering`
 
@@ -109,9 +111,7 @@ Building scalable web applications, learning AI, and creating innovative product
 
 ---
 
----
-
-## 📚 Currently Learning
+# 📚 Currently Learning
 
 <p align="center">
 
@@ -119,37 +119,36 @@ Building scalable web applications, learning AI, and creating innovative product
 
 ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-Learning-success?style=for-the-badge)
 
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-Learning-purple?style=for-the-badge)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-Learning-purple?style=for-the-badge)
 
 </p>
 
 ---
-
-
-</details>
-
----
-
----
-
----
 # 💼 Professional Experience
 
-## 🚀 Freelance Full Stack Developer & Content Creator
+## 🚀 Personal Projects
 
-- Designed and developed responsive web applications.
-- Built scalable REST APIs using Node.js and Express.js.
-- Worked with React.js for modern user interfaces.
-- Managed MySQL databases and Git version control.
-- Focused on clean code, performance, and user experience.
+- Developed responsive web applications using modern web technologies.
+- Built RESTful APIs using **Node.js** and **Express.js**.
+- Created dynamic user interfaces with **React.js**.
+- Worked with **MySQL**, **MongoDB**, and **Firebase**.
+- Used **Git** and **GitHub** for version control and collaboration.
+- Focused on writing clean, maintainable, and scalable code.
+- Currently building **GameTube**, a gaming video-sharing platform.
 
-**Skills**
+### 🛠️ Technologies Used
+
+<p align="center">
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+</p>
 
 ---
 
@@ -164,17 +163,16 @@ Building scalable web applications, learning AI, and creating innovative product
 | 🤝 Open to Internship Opportunities | ✅ Available |
 
 ---
----
 
 # 🎯 Career Goals
 
-- Become a Professional Full Stack Developer
-- Master Java & Data Structures
-- Build AI-powered Applications
-- Launch GameTube Successfully
-- Contribute to Open Source
-- Secure a Software Engineering Internship
-- Grow into a Senior Software Engineer
+- 🚀 Become a Professional Full Stack Software Engineer
+- ☕ Master Java and Data Structures & Algorithms
+- 🤖 Build AI-powered Applications
+- 🎮 Successfully Launch **GameTube**
+- 🌍 Contribute to Open Source Projects
+- 💼 Secure a Software Development Internship
+- 📈 Grow into a Senior Software Engineer
 
 ---
 
@@ -193,7 +191,6 @@ Building scalable web applications, learning AI, and creating innovative product
 ⏳ Cloud Computing
 ⏳ System Design
 ⏳ DevOps
-```
 ```
 
 ---
@@ -218,13 +215,11 @@ Building scalable web applications, learning AI, and creating innovative product
 
 ---
 
----
-
 # 💡 Quote
 
 <div align="center">
 
-> **"Code with purpose. Learn continuously. Build solutions that create real-world impact."**
+> **"Code with purpose. Learn continuously. Build solutions that create a real-world impact."**
 
 </div>
 
