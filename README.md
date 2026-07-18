@@ -24,7 +24,7 @@ Building scalable web applications, exploring Artificial Intelligence, and devel
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+Developer;AI+Enthusiast;Building+GameTube+Gaming+Platform;Open+Source+Learner;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+Developer;AI+Enthusiast;Building+Critexan+Gaming+Platform;Open+Source+Learner;Always+Learning+New+Technologies" />
 
 </div>
 
@@ -61,7 +61,7 @@ Building scalable web applications, exploring Artificial Intelligence, and devel
 # 🎯 Current Focus
 
 - 📚 Learning **Java, DSA, and Artificial Intelligence**
-- 🚀 Building **GameTube**
+- 🚀 Building **Critexan**
 - 🌍 Goal: Become a **Professional Full Stack Software Engineer**
 - 💼 Looking for **Software Development Internship Opportunities**
 
@@ -134,7 +134,7 @@ Building scalable web applications, exploring Artificial Intelligence, and devel
 - Worked with **MySQL**, **MongoDB**, and **Firebase**.
 - Used **Git** and **GitHub** for version control and collaboration.
 - Focused on writing clean, maintainable, and scalable code.
-- Currently building **GameTube**, a gaming video-sharing platform.
+- Currently building **Critexan**, a gaming video-sharing platform.
 
 ### 🛠️ Technologies Used
 
@@ -169,7 +169,7 @@ Building scalable web applications, exploring Artificial Intelligence, and devel
 - 🚀 Become a Professional Full Stack Software Engineer
 - ☕ Master Java and Data Structures & Algorithms
 - 🤖 Build AI-powered Applications
-- 🎮 Successfully Launch **GameTube**
+- 🎮 Successfully Launch **Critexan**
 - 🌍 Contribute to Open Source Projects
 - 💼 Secure a Software Development Internship
 - 📈 Grow into a Senior Software Engineer
