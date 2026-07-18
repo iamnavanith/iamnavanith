@@ -5,7 +5,7 @@
 ### BCA Student • Full Stack Developer • AI-Assisted Software Developer
 
 <p>
-Building scalable web applications, exploring Artificial Intelligence, and developing innovative products like <b>GameTube</b>.
+Building scalable web applications, exploring Artificial Intelligence, and developing innovative products like <b>Critexan</b>.
 </p>
 
 </div>
@@ -158,7 +158,7 @@ Building scalable web applications, exploring Artificial Intelligence, and devel
 |-------------|--------|
 | 🎓 BCA Student | ✅ Current |
 | 💻 Full Stack Developer | ✅ Active |
-| 🚀 Building GameTube | 🚧 In Progress |
+| 🚀 Building Critexan | 🚧 In Progress |
 | 🌱 Learning Java, DSA & AI | ✅ Ongoing |
 | 🤝 Open to Internship Opportunities | ✅ Available |
 
